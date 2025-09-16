@@ -34,10 +34,10 @@ ELATHA Lunar sample collection mission CAD and modelling portfolio.
 
 
 - **Presentation (PPTX):** slides with model trees, projections, subsystem layouts, and mechanism snapshots.  
-  [Open the presentation](assets/MMME4105%20Group%201%20-%20Modelling%20Portfolio%20%28No%20Sound%29.pptx)
+  [Open the presentation](https://drive.google.com/drive/folders/1n73bBCO6HppJtz1ViC6n_SkVJvGjIopc?usp=sharing)
 
 - **Walkthrough video (MP4):** silent screen capture of key modelling techniques, assemblies, and kinematic reviews.  
-  [Watch the video](assets/MMME4105%20Group%201%20-%20Modelling%20Portfolio.mp4)
+  [Watch the video](https://drive.google.com/drive/folders/1n73bBCO6HppJtz1ViC6n_SkVJvGjIopc?usp=sharing)
 
 > Note: CAD source files are not included in this repository.
 
