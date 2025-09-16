@@ -4,6 +4,7 @@ ELATHA Lunar sample collection mission CAD and modelling portfolio.
 # MMME4105 Lunar Rover Sample Collection Mission - CAD Modelling Portfolio
 
 > Academic group design project demonstrating CAD modelling of a three-element lunar mission: **Orbiter**, **Lander-Ascender**, and **Rover**. Focus on a model-up, first-principles approach, robust assemblies, parameters, and kinematics to show design intent and handover readiness.
+> Credit to group members: Christian McMahon-Walsh, Oliver Legon, Luca Mendes, Max Williams, Alexander Rose
 
 ---
 
