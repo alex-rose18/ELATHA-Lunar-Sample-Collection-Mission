@@ -104,3 +104,5 @@ All rights reserved.
 No part of this project, including CAD models, documentation, video, or presentation materials,
 may be copied, modified, distributed, or used for commercial or academic purposes
 without prior written permission from the authors.
+
+Credit to group members: Christian McMahon-Walsh, Oliver Legon, Luca Mendes, Max Williams, Alexander Rose
